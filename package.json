@@ -1,0 +1,20 @@
+{
+  "name": "webrtc-exercize",
+  "version": "1.0.0",
+  "description": "[录屏并下载](./record-and-download)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuarkGluonPlasma/webrtc-exercize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuarkGluonPlasma/webrtc-exercize/issues"
+  },
+  "homepage": "https://github.com/QuarkGluonPlasma/webrtc-exercize#readme"
+}
